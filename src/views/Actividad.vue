@@ -22,7 +22,7 @@ export default {
       tema: 'información financiera, liquidez y control de riesgos',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> evaluar la comprensión y aplicación de los procedimientos para interpretar estados financieros básicos, elaborar y analizar el flujo de caja, identificar problemas de liquidez, evaluar riesgos financieros y reconocer medidas preventivas y mecanismos de control de recursos.',
+        '<b>Objetivo:</b> Evaluar la comprensión y aplicación de los procedimientos para interpretar estados financieros básicos, elaborar y analizar el flujo de caja, identificar problemas de liquidez, evaluar riesgos financieros y reconocer medidas preventivas y mecanismos de control de recursos.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
