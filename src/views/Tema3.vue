@@ -57,20 +57,20 @@
                   tbody
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Saldo inicial
-                      td.ajuste-border-tabla.texto-left Dinero disponible al comienzo del periodo
-                      td.texto-left Efectivo existente en caja y bancos
+                      td.ajuste-border-tabla.texto-left Dinero disponible al comienzo del periodo.
+                      td.texto-left Efectivo existente en caja y bancos.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Entradas de efectivo
-                      td.ajuste-border-tabla.texto-left Recursos efectivamente recibidos
-                      td.texto-left Ventas de contado, recaudo de cartera o aportes
+                      td.ajuste-border-tabla.texto-left Recursos efectivamente recibidos.
+                      td.texto-left Ventas de contado, recaudo de cartera o aportes.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Salidas de efectivo
-                      td.ajuste-border-tabla.texto-left Recursos efectivamente pagados
-                      td.texto-left Compras, servicios, proveedores o cuotas de préstamos
+                      td.ajuste-border-tabla.texto-left Recursos efectivamente pagados.
+                      td.texto-left Compras, servicios, proveedores o cuotas de préstamos.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Saldo final
-                      td.ajuste-border-tabla.texto-left Dinero disponible después de las entradas y salidas
-                      td.texto-left Recursos que permanecen al finalizar el periodo
+                      td.ajuste-border-tabla.texto-left Dinero disponible después de las entradas y salidas.
+                      td.texto-left Recursos que permanecen al finalizar el periodo.
           .titulo-tercer-nivel.mb-5(data-aos="fade-right")
             img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/t1/img4.png')
             h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Importancia del flujo de caja
@@ -347,7 +347,7 @@
                 .row.align-items-center
                   .col-lg.mb-4.mb-lg-0
                     h3 Definir el periodo y el saldo inicial
-                    p.mb-0 Definir el periodo que se analizará —diario, semanal, mensual u otro— de acuerdo con la actividad. Después, determinar el saldo inicial disponible en caja y bancos, el cual corresponde normalmente al saldo final obtenido en el periodo anterior.
+                    p.mb-0 Definir el periodo que se analizará diario, semanal, mensual u otro de acuerdo con la actividad. Después, determinar el saldo inicial disponible en caja y bancos, el cual corresponde normalmente al saldo final obtenido en el periodo anterior.
                   .col-auto(data-aos="zoom-in")
                     figure
                       img(src='@/assets/curso/temas/t3/img17.png', alt='' style="width: 300px").m-auto
@@ -556,7 +556,7 @@
         .col-xl-6
           .caja-2  
             h5.mb-0 Flujo neto = Entradas de efectivo − Salidas de efectivo
-      p Cuando el flujo neto es negativo, las salidas fueron superiores a las entradas. Sin embargo, el resultado debe relacionarse con el saldo inicial, porque los recursos acumulados pueden cubrir temporalmente la diferencia.
+      p Cuando el flujo neto es negativo, las salidas son superiores a las entradas. Sin embargo, el resultado debe relacionarse con el saldo inicial, porque los recursos acumulados pueden cubrir temporalmente la diferencia.
       p.mb-5 Además del flujo neto, existen situaciones que pueden advertir dificultades en la disponibilidad de efectivo. Las principales señales son las siguientes:
       .row.align-items-center.mb-3
         .col-xl-auto(data-aos="fade-right")
@@ -582,14 +582,14 @@
             .row(titulo="Dependencia constante de préstamos").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 La necesidad recurrente de financiación externa puede indicar que el efectivo generado por la actividad no resulta suficiente para cubrir sus necesidades habituales.
             .row(titulo="Disminución continua del saldo de caja").ajuste-cajaAcordion.ajuste-vineta
-              p.mb-3 La reducción progresiva del efectivo durante varios periodos puede advertir un deterioro de la liquidez que requiere analizar sus causas.
+              p.mb-3 La reducción progresiva del efectivo durante varios periodos puede advertir  de un deterioro de la liquidez que requiere analizar sus causas.
         .col-xl-auto(data-aos="fade-left")
           figure.d-none.d-xl-block
             img(src="@/assets/curso/temas/t3/img26.png", alt="" style="width: 500px").m-auto
       .titulo-tercer-nivel.mb-5(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/t1/img4.png')
         h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Diferencia entre falta temporal y problema recurrente
-      p Una disminución del efectivo puede ser temporal cuando los pagos se realizan antes de recibir los ingresos, como ocurre en algunas actividades agrícolas. Sin embargo, si los faltantes se repiten, el saldo disminuye progresivamente o se depende de financiación frecuente, es necesario identificar las causas del desequilibrio. 
+      p Una disminución del efectivo puede ser temporal cuando los pagos se realizan antes de recibir los ingresos, como ocurre en algunas actividades agrícolas. Sin embargo, si los faltantes se repiten, el saldo disminuye progresivamente o se depende de financiación frecuente es necesario identificar las causas del desequilibrio. 
       p.mb-5 La siguiente comparación permite diferenciar una disminución temporal del efectivo de una dificultad que se mantiene durante varios periodos:
       .bg-1
         .px-5

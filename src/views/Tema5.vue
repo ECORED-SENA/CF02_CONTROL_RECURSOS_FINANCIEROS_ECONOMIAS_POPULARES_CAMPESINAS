@@ -61,7 +61,7 @@
           .titulo-tercer-nivel.mb-5(data-aos="fade-right")
             img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/t1/img4.png')
             h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Características de una medida preventiva
-          p Para que una medida preventiva sea útil debe responder a un riesgo concreto y permitir establecer con claridad qué debe realizarse. Expresiones generales como “administrar mejor el dinero” no permiten determinar cómo debe aplicarse ni verificar posteriormente su cumplimiento.
+          p Para que una medida preventiva sea útil, debe responder a un riesgo concreto y permitir establecer con claridad qué debe realizarse. Expresiones generales como “administrar mejor el dinero” no permiten determinar cómo debe aplicarse ni verificar posteriormente su cumplimiento.
           p.mb-5 Las siguientes características contribuyen a que una medida preventiva pueda aplicarse y verificarse adecuadamente:
           .bg-4
             .px-5
@@ -215,7 +215,7 @@
       .titulo-tercer-nivel.mb-5(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/t1/img4.png')
         h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Relación entre riesgo, causa y medida
-      p Una medida preventiva resulta más efectiva cuando actúa sobre la causa del riesgo y no solamente sobre sus consecuencias. Por ello, antes de formularla es necesario precisar qué riesgo se pretende atender, cuál es la condición que puede originarlo y qué acción concreta puede contribuir a disminuir su probabilidad o impacto.
+      p Una medida preventiva resulta más efectiva cuando actúa sobre la causa del riesgo y no solamente sobre sus consecuencias. Por ello, antes de formularla, es necesario precisar qué riesgo se pretende atender, cuál es la condición que puede originarlo y qué acción concreta puede contribuir a disminuir su probabilidad o impacto.
       p.mb-5 La siguiente relación permite vincular cada riesgo con su causa principal y una medida preventiva acorde con la situación:
       .bg-2
         .px-5
@@ -234,27 +234,27 @@
                   tbody
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Retraso en los recaudos
-                      td.ajuste-border-tabla.texto-left Seguimiento insuficiente de ventas a crédito
+                      td.ajuste-border-tabla.texto-left Seguimiento insuficiente de ventas a crédito.
                       td.texto-left Llevar control de vencimientos y contactar al cliente antes de la fecha de pago.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Falta de efectivo
-                      td.ajuste-border-tabla.texto-left Concentración de pagos en determinados periodos
+                      td.ajuste-border-tabla.texto-left Concentración de pagos en determinados periodos.
                       td.texto-left Proyectar semanal o mensualmente las entradas y salidas.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Exceso de inventarios
-                      td.ajuste-border-tabla.texto-left Compras sin considerar existencias y ventas
+                      td.ajuste-border-tabla.texto-left Compras sin considerar existencias y ventas.
                       td.texto-left Revisar el inventario antes de programar nuevas compras.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Aumento de costos
-                      td.ajuste-border-tabla.texto-left Variación frecuente de precios de insumos
+                      td.ajuste-border-tabla.texto-left Variación frecuente de precios de insumos.
                       td.texto-left Comparar precios y actualizar periódicamente los costos.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Dependencia de pocos clientes
-                      td.ajuste-border-tabla.texto-left Alta concentración de las ventas
+                      td.ajuste-border-tabla.texto-left Alta concentración de las ventas.
                       td.texto-left Ampliar progresivamente los clientes o canales de comercialización.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Dificultad para pagar obligaciones
-                      td.ajuste-border-tabla.texto-left Compromisos superiores a la capacidad de pago
+                      td.ajuste-border-tabla.texto-left Compromisos superiores a la capacidad de pago.
                       td.texto-left Revisar el flujo proyectado antes de asumir nuevas obligaciones.
           .titulo-tercer-nivel.mb-5(data-aos="fade-right")
             img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/t1/img4.png')
@@ -307,14 +307,14 @@
                   img(src='@/assets/curso/temas/t5/img18.png' ).m-auto
               .box___card_sinbordes_p
                 h4.mb-3.estilo-text Crédito
-                p.mb-0.text-center Revisar vencimientos, registrar abonos y realizar seguimiento a la cartera facilita controlar los recursos pendientes de recaudo.
+                p.mb-0.text-center Revisar vencimientos, registrar abonos y realizar seguimiento a la cartera facilitan controlar los recursos pendientes de recaudo.
             .tarjeta.color-acento-botones
               .row.justify-content-center.mb-3
                 .col-12
                   img(src='@/assets/curso/temas/t5/img19.png' ).m-auto
               .box___card_sinbordes_p
                 h4.mb-3.estilo-text Mercado
-                p.mb-0.text-center Actualizar costos, comparar proveedores y revisar precios de venta permite anticipar los efectos de variaciones en precios e insumos.
+                p.mb-0.text-center Actualizar costos, comparar proveedores y revisar precios de venta permiten anticipar los efectos de variaciones en precios e insumos.
             .tarjeta.color-acento-botones
               .row.justify-content-center.mb-3
                 .col-12

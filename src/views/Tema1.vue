@@ -31,7 +31,7 @@
                 img(src="@/assets/curso/temas/t1/img3.png", alt="")
             .crd_hover_txt--body
               h4.mb-3 Ingreso o gasto contable
-              p.mb-0 Reconoce la naturaleza económica de la operación, aunque el dinero no se reciba o pague. No toda entrada es ingreso ni toda salida es gasto.
+              p.mb-0 Reconoce la naturaleza económica de la operación, aunque el dinero no se reciba ni se pague. No toda entrada es ingreso ni toda salida es gasto.
       .titulo-tercer-nivel.mb-5(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/t1/img4.png')
         h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Clasificación inicial de los movimientos
@@ -163,7 +163,7 @@
       .titulo-tercer-nivel.mb-5(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/t1/img4.png')
         h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Consolidación por periodo
-      p.mb-5 Una vez clasificadas las operaciones, los valores pueden agruparse por día, semana o mes según las necesidades de la unidad económica. La consolidación consiste en reunir los registros individuales y obtener totales que permitan concoer el comportamiento de los recursos durante el periodo, sin perder la posibilidad de relacionar cada valor con su respectivo soporte. El siguiente ejemplo corresponde a una consolidación mensual de movimientos:
+      p.mb-5 Una vez clasificadas las operaciones, los valores pueden agruparse por día, semana o mes según las necesidades de la unidad económica. La consolidación consiste en reunir los registros individuales y obtener totales que permitan conocer el comportamiento de los recursos durante el periodo, sin perder la posibilidad de relacionar cada valor con su respectivo soporte. El siguiente ejemplo corresponde a una consolidación mensual de movimientos:
       .bg-1
         .px-5
           .row.justify-content-center.mb-5
@@ -485,7 +485,7 @@
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                |  Periodo: corresponden al intervalo que se pretende informar. 
+                |  Periodo: corresponde al intervalo que se pretende informar. 
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
@@ -501,7 +501,7 @@
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                |  Integridad: no presentan operaciones duplicadas, omitidas o registradas en categorías incorrectas.
+                |  Integridad: no presenta operaciones duplicadas, omitidas o registradas en categorías incorrectas.
       p.mb-0 La consolidación de ingresos, costos y gastos permite organizar los resultados generados por la actividad económica. Los valores verificados proporcionan la base para determinar la utilidad o pérdida del periodo y analizar los factores que influyeron en el desempeño financiero del negocio.
       Separador
       #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")

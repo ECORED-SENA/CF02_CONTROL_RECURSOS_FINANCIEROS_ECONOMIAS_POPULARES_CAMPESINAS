@@ -461,7 +461,7 @@
       Separador
       #t_4_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 4.4 Probabilidad, impacto y nivel de afectación
-      p.mb-5 Una vez identificados y clasificados los riesgos financieros, es necesario valorar qué tan posible es que ocurran y qué consecuencias podrían generar. El análisis de la probabilidad y el impacto permite establecer el nivel de afectación de cada riesgo y proporciona información para determinar posteriormente cuáles situaciones requieren mayor atención.
+      p.mb-5 Una vez identificados y clasificados los riesgos financieros, es necesario valorar qué tan posible es que ocurran y qué consecuencias podrían generar. El análisis de la probabilidad y el impacto permite establecer el nivel de afectación de cada riesgo y proporciona información para determinar posteriormente que situaciones requieren mayor atención.
       .titulo-tercer-nivel.mb-5(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/t1/img4.png')
         h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Probabilidad de ocurrencia
